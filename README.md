@@ -1,10 +1,20 @@
 # Análise comparativa de ferramentas GPT
 
-Este projeto consiste na comparação do uso do ChatGPT com o projeto Open Source AutoGPT de acordo com três cenários de diferentes complexidades.
+Neste projeto realizamos uma comparação entre o ChatGPT e o Auto-GPT na realização de alguma tarefas triviais. O Objetivo desta comparação é identificar as vnatagens e desvantagens de cada ferramenta.
 
-Para a execução dos testes do projeto AutoGPT é necessário realizar a instalação e configuração do projeto em uma máquina local.
+Mais informações sobre o a análise podem ser vistas neste [artigo](www.globo.com).
 
-O endereço do repositório do AutoGPT é disponibilizado em https://github.com/Significant-Gravitas/Auto-GPT. Neste endereço também é disponibilizado a documentação necessária para instalação e configuração do projeto.
+O Auto-GPT é disponibilizado em https://github.com/Significant-Gravitas/Auto-GPT. Neste endereço também é disponibilizado a documentação necessária para instalação e configuração do projeto. Ao final deste documento serão disponibilizadas as instruções de instalação em Portugês.
+
+## Caso de Teste Básico
+Na execução do primeiro caso, o Auto-GPT gerou dois arquivos:
+ * [graph_generator.py](src/basico/graph_generator.py): arquivo com o script para a geração do gráfico solicitado;
+ * [install_matplotlib.py](src/basico/install_matplotlib.py): arquivo gerado pelo Auto-GPT para a instalação da biblioteca MatPlotLib.
+
+## Caso de Teste Avançado
+Na execução do caso avançado, o Auto-GPT gerou dois arquivos:
+ * [flight_search.py](src/avancado/flight_search.py): script contínuo para localização de passagens com preços mais baixos;
+ * [flight_search_test.py](src/avancado/flight_search_tests.py): arquivo com testes unitários para validação do script.
 
 # Instalando e configurando o AutoGPT
 
