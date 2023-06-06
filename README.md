@@ -18,8 +18,7 @@ Na execução do caso avançado, o Auto-GPT gerou dois arquivos:
 
 ## Execução do Teste Avançado
 
-
-[![Alternate Text]({image-url})]({https://www.loom.com/share/84e3120a155049b382a468be19507a20} "Link Title")
+Link para uma execução de um teste do Cenário Avançado: https://www.loom.com/share/84e3120a155049b382a468be19507a20
 
 # Instalando e configurando o AutoGPT
 
