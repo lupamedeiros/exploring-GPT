@@ -16,6 +16,11 @@ Na execução do caso avançado, o Auto-GPT gerou dois arquivos:
  * [flight_search.py](src/avancado/flight_search.py): script contínuo para localização de passagens com preços mais baixos;
  * [flight_search_test.py](src/avancado/flight_search_tests.py): arquivo com testes unitários para validação do script.
 
+## Execução do Teste Avançado
+
+
+[![Alternate Text]({image-url})]({https://www.loom.com/share/84e3120a155049b382a468be19507a20} "Link Title")
+
 # Instalando e configurando o AutoGPT
 
 ## 📋 Requisitos
